@@ -1,14 +1,19 @@
-## {{Class}}
+## Computer Science Design I
 
-Course Number: EECS {{#}}
+Course Number: EECS 581
 
 Instructor: Dr. Andrew (Andy) Gill
 
-{{Description}}
+The background and planning phase of a two-semester, team-oriented
+lecture/laboratory course involving the specification, design,
+implementation, and documentation of a significant software
+system. The course includes the consideration of project management,
+ethics, economics, and technical writing. Can be taken only during the
+senior year.
 
 ## Prerequisite: 
 
-{{Prerequisites}}
+Prerequisite: EECS 448. Co-Requsite: EECS 510 and EECS 560. 
 
 # Textbook
 
@@ -95,9 +100,21 @@ choose to do so, I will only announce the extension in class or on
 piazza. If you hear an extension has been granted and I have not
 announced it, your information is incorrect.
 
-## Topics
+## Team Work
 
-{{Topics}}
+The Capstone Project will be done in groups of students, as team work
+is an essential component of this course. If you are unable to find a
+group, you will be assigned to one. All members of the same team may
+receive identical scores on the team components. Therefore, it is the
+responsibility of the team members to ensure fair and equal
+contributions.
 
-(Specific topics are subject to change without notice.)
+Capstone Project phases are continuous and build upon one another. 
+
+If there is a problem with individual member’s contributions, this
+must be discussed with the professor early on during the semester in
+order for timely mitigation. This can range from members increasing
+their level of efforts, to removing members of a team. Changing teams
+in the middle of the Capstone Project is difficult, and is only done
+as the last resort.
 
