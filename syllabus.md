@@ -29,7 +29,7 @@ Scale and Weight: The course will be graded on a standard 10 point scale:
 > D - 60-69  
 > F - 0-59  
 
-Assessments will be made based on a final exam, as well as homeworks and practicals.
+Assessments will be made based on a final exam, as well as homeworks and/or project(s).
 There may be group homeworks or projects.
 
 ## Class Participation
@@ -67,6 +67,14 @@ I will make every effort to be in my office during scheduled office hours. If th
 I will let you know as early as is possible. If you have a conflict with my office hours, please
 make an appointment. I try to have an open door policy; you are free to come by whenever you choose.
 If I am busy, I may ask that you make an appointment using email.
+
+## IP Policy
+
+To a first approximation, Students are the owners of the IP they create.
+Apart from as required to effectually manage the class logistics (grading, etc), I
+rescind any personal IP rights I have to students’ IP created for this class, if any.
+I explicitly encourage students to release their projects open source, under a license
+of their choosing.
 
 ## Cheating
 
