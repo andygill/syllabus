@@ -63,6 +63,14 @@ I will let you know as early as is possible. If you have a conflict with my offi
 make an appointment. I try to have an open door policy; you are free to come by whenever you choose.
 If I am busy, I may ask that you make an appointment using email.
 
+## IP Policy
+
+To a first approximation, Students are the owners of the IP they create.
+Apart from as required to effectually manage the class logistics (grading, etc), I
+rescind any personal IP rights I have to students’ IP created for this class, if any.
+I explicitly encourage students to release their projects open source, under a license
+of their choosing.
+
 ## Cheating
 
 Academic misconduct of any kind will automatically result in a 0 score on the homework, lab,
