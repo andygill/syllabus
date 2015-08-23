@@ -1,14 +1,19 @@
-## {{Class}}
+## Functional Programming and Domain Specific Languages
 
-Course Number: EECS {{#}}
+Course Number: EECS 776
 
 Instructor: Dr. Andrew (Andy) Gill
 
-{{Description}}
+A graduate-level introduction to functional programming. Topics
+include learning how to program in Haskell; IO and purity in software
+engineering; functional data structures and algorithms; monads and
+applicative functors; parsing combinators; Domain Specific Languages
+(DSLs) and DSL construction; advanced type systems; making assurance
+arguments; testing and debugging.
 
 ## Prerequisite: 
 
-{{Prerequisites}}
+EECS 368, or equivalent, or consent of instructor.
 
 # Textbook
 
@@ -89,7 +94,10 @@ announced it, your information is incorrect.
 
 ## Topics
 
-{{Topics}}
+We will spend the first few weeks getting accustomed to Haskell, then explore
+other more advanced topics, such as IO and purity, functional data structures and algorithms, monads
+and applicative functors, parsing combinators, DSLs and hardware description DSLs, advanced type
+systems, making assurance arguments, testing and debugging.
 
 (Specific topics are subject to change without notice.)
 
