@@ -65,7 +65,7 @@ If I am busy, I may ask that you make an appointment using email.
 
 ## IP Policy
 
-To a first approximation, Students are the owners of the IP they create.
+To a first approximation, students are the owners of the IP they create.
 Apart from as required to effectually manage the class logistics (grading, etc), I
 rescind any personal IP rights I have to students’ IP created for this class, if any.
 I explicitly encourage students to release their projects open source, under a license
