@@ -1,14 +1,21 @@
-## {{Class}}
+## Programming Language Paradigms
 
-Course Number: EECS {{#}}
+Course Number: EECS 368
 
 Instructor: Dr. Andrew (Andy) Gill
 
-{{Description}}
+The course is a survey of programming languages: their attributes,
+uses, advantages, and disadvantages. Topics include scopes, parameter
+passing, storage management, control flow, exception handling,
+encapsulation and modularization mechanism, reusability through
+genericity and inheritance, and type systems.  In particular, several
+different languages will be studied which exemplify different language
+philosophies (e.g., procedural, functional, object-oriented, logic,
+scripting).
 
 ## Prerequisite: 
 
-{{Prerequisites}}
+EECS 268 and upper-level EECS eligibility.
 
 # Textbook
 
@@ -24,8 +31,8 @@ Scale and Weight: The course will be graded on a standard 10 point scale:
 > D - 60-69  
 > F - 0-59  
 
-Assessments will be made based on a final exam, as well as homeworks and/or project(s).
-There may be group homeworks or projects.
+Assessments will be made based on a final exam, as well as homeworks
+and/or project(s).
 
 ## Class Participation
 
@@ -97,7 +104,40 @@ announced it, your information is incorrect.
 
 ## Topics
 
-{{Topics}}
+ * Evolution of Programming Languages
+    * Rationale behind programming languages
+    * Programming languages in context
+ * Programming Language Processing
+    * Compilation
+    * Interpretation
+    * Mixed approaches
+ * Programming Language Characteristics
+    * Imperative, functional and declarative languages
+    * Parameter passing and evaluation order
+    * Iteration and recursion
+ * Data Structures
+    * Type Systems and Type Checking
+    * Composite Types
+    * Binding and Scoping
+    * Dynamic and Recursive Types
+ * Basics of JavaScript Programming
+    * Call-by-value evaluation
+    * Early binding
+    * Dynamic types
+    * iteration and concurrency
+ * Basics of Scheme Programming
+    * Normal order evaluation
+    * Late binding
+    * Data driven programming
+    * Lists and recursion
+    * Higher-order functions
+ * Basics of Haskell programming
+    * Lazy evaluation
+    * Early binding and type inference
+    * Parametric polymorphism
+    * Constructed types and pattern matching
+    * Type classes and instances
+    * Functors and semantic algebras
 
 (Specific topics are subject to change without notice.)
 
