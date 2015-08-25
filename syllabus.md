@@ -31,7 +31,7 @@ Scale and Weight: The course will be graded on a standard 10 point scale:
 > D - 60-69  
 > F - 0-59  
 
-Assessments will be made based on a final exam, as well as homeworks
+Assessments will be made based on a mid-term exam, a final exam, as well as homeworks
 and/or project(s).
 
 ## Class Participation
